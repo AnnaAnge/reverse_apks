@@ -10,7 +10,7 @@ chmod +x apk_reverse.sh
 ```
 
 ## What's the meaning of this?
-If you want to reverse engineer for **ethical security testing reasons** an .apk file (which is the executable of an Android app) then you can use apktool and dex2jar. 
+If you want to reverse engineer for **ethical security testing** an .apk file (which is the executable of an Android app) then you can use apktool and dex2jar. 
 
 So this app does this for you or me :smiling_imp:.
 
