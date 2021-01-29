@@ -14,6 +14,8 @@ If you want to reverse engineer for **ethical security testing** an .apk file (w
 
 So this app does this for you or me :smiling_imp:.
 
+[update] I've also included a keyword search in the .jar files.
+
 ## What do i need?
 
 Well, you actually need a linx distro and the following tools downloaded and properly configured:
