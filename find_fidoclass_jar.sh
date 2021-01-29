@@ -1,0 +1,1 @@
+jar -tvf com.paypal.android.p2pmobile_2020-12-23-dex2jar.jar | grep fido
